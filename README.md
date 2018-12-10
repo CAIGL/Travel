@@ -21,7 +21,7 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 分支基本操作
-git branch 查看分支
+git branch 查看分支 <br>
 git checkout xxx 切换分支
 git merge origin/xxx 合并分支
 
