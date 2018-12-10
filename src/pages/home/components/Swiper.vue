@@ -13,7 +13,6 @@
 
 <script>
 export default {
-  name: 'HomeSwiper',
   data () {
     return {
       swiperOption: {
@@ -35,13 +34,13 @@ export default {
 
 <style lang="stylus" scoped>
   .wrapper // 自动撑开高度
-    overflow: hidden
-    width: 100%
+    overflow hidden
+    width 100%
     height 0
-    padding-bottom: 26.66%
-    background: #eee
+    padding-bottom 26.66%
+    background #eee
     .swiper-img
-      width: 100%
+      width 100%
     >>>.swiper-pagination-bullet-active // >>>进行样式穿透
-      background: #fff
+      background #fff
 </style>
