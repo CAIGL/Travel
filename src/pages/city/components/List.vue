@@ -57,7 +57,7 @@ export default {
       currentCity: 'city'
     })
   },
-  mounted () {
+  mounted() {
     this.scroll = new Bscroll(this.$refs.wrapper)
   }
 }
